@@ -54,6 +54,8 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   BASE_PATH : http://abelsky.com/blog
 
+  baseurl: "http://abelsky.com/blog"
+
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
